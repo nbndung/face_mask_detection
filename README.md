@@ -1,7 +1,7 @@
 ### Datasets
 - The project was trained on 4000 masked images and 4000 not-masked images
 - Dataset is too large to upload, below are sources where dataset was compiled:
-  - https://www.kaggle.com/andrewmvd/face-mask-detection
+  	- https://www.kaggle.com/andrewmvd/face-mask-detection
 	- https://www.kaggle.com/omkargurav/face-mask-dataset
 	- https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset
 	- https://www.kaggle.com/vijaykumar1799/face-mask-detection
